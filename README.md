@@ -29,8 +29,4 @@ Check out here [Play Game](https://schrodingerbear.github.io/tictactoe-menu.html
 2. Open index.html in your web browser.
 3. Start playing Tic Tac Toe!
 
-## Feedback
 
-Feel free to [open an issue](https://github.com/schrodingerbear/tictactoe/issues) if you encounter any bugs or have suggestions for improvements.
-
-#TicTacToe #GameOn #ChallengeAccepted 🏆
