@@ -2,7 +2,7 @@
 
 Welcome to Tic Tac Toe, a classic game of strategy and skill!
 <div id="header" align="center">
-  <img src="vid.mp4?raw=true" width="800" heigth="800"/>
+  <img src="ref.gif?raw=true" width="800" heigth="800"/>
 </div>
 
 ## Overview
