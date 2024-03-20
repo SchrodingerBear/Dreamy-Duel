@@ -1,8 +1,10 @@
 # Tic Tac Toe
 
 Welcome to Tic Tac Toe, a classic game of strategy and skill!
+<div id="header" align="center">
+  <img src="vid.mp4?raw=true" width="800" heigth="800"/>
+</div>
 
-(https://github.com/SchrodingerBear/Dreamy-Duel/raw/main/vid.mp4)
 ## Overview
 
 🎮 Ready to challenge your wits? Play my Tic Tac Toe now! 🌟 Test your strategy against a friend or challenge my AI at different difficulty levels. Let the games begin! 💪 
