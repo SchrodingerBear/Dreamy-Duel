@@ -16,9 +16,9 @@ Welcome to Tic Tac Toe, a classic game of strategy and skill!
 
 This project is built using frontend languages including HTML, CSS, and JavaScript.
 
-## Video Demo
+## Demo
 
-Check out this [video demo](https://schrodingerbear.github.io/tictactoe-menu.html) to see Tic Tac Toe in action!
+Check out here [Play Game](https://schrodingerbear.github.io/tictactoe-menu.html) to see Tic Tac Toe in action!
 
 ## Get Started
 
