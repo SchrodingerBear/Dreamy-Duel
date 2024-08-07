@@ -21,12 +21,6 @@ This project is built using frontend languages including HTML, CSS, and JavaScri
 
 ## Demo
 
-Check out here [Play Game](https://schrodingerbear.github.io/tictactoe-menu.html) to see Tic Tac Toe in action!
-
-## Get Started
-
-1. Clone this repository.
-2. Open index.html in your web browser.
-3. Start playing Tic Tac Toe!
+Check out here [Play Game](dreamy-duel.vercel.app) to see Tic Tac Toe in action!
 
 
